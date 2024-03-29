@@ -18,7 +18,7 @@
 :arrow_up:[к оглавлению](#anchor)
 
 ### 2. Какой кейс решаем? <a id="p2"></a>
-- Построить базовые модели (Baseline) - логистическую регрессию(LogisticRegression) и Дерево решений (DecisionTreeClassifier). Подобрать оптимальные гиперпараметры моделей 5-ю методами: **GridSeachCV**, **RandomForestClassifier**, **GradientBoostingClassifier**,**StackingClassifier** и **Optuna**.
+- Построить базовые модели (Baseline) - логистическую регрессию(LogisticRegression) и Дерево решений (DecisionTreeClassifier). Подобрать оптимальные гиперпараметры моделей 5-ю методами: **GridSeachCV**, **RandomForestClassifier**, **GradientBoostingClassifier**, **StackingClassifier** и **Optuna**.
 - Исследуем данные, создаем визуализации.
 - Попробуем выявить характерные черты для потенциальных клиентов, чтобы чётко очертить ЦА и увеличить прибыль банка.
 - Используем фантазию и разные инструменты для повышения качества прогноза.
