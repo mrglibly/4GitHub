@@ -10,3 +10,4 @@
 * [Проект 3. Проект для HeadHunter. Часть 2](https://github.com/mrglibly/4GitHub/tree/main/Project4)
 * [Проект 4. Модель по предсказанию рейтинга гостиниц](https://github.com/mrglibly/4GitHub/tree/main/Project5)
 * [Проект 5. ML-7. Прогнозирование биологического ответа (HW-3)](https://github.com/mrglibly/4GitHub/tree/main/Project6)
+* [Проект 6. Подбор гиперпараметров модели для банка]()
