@@ -60,7 +60,7 @@
 * [data](https://drive.google.com/file/d/1vJayOym05eqpUI1x1fca0sme-25DAKeu/view?usp=share_link) - папка с исходными табличными данными.
 * [Курсы валют](https://drive.google.com/file/d/1aCm8xEhe9VjTlRm6Kb7loMEORmymY3JV/view?usp=share_link) - файл с курсами валют за соответствующий период времени.
 * [Коды валют](./Currency_ISO.xlsx) - информация о ISO кодировке валют.
-* [SB_PJ_01.ipynb](https://github.com/mrglibly/4GitHub/blob/main/Project2/SB_PJ_01.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
+* [SB_PJ_01.ipynb](https://github.com/mrglibly/4GitHub/blob/main/Project3/Project_2_Ноутбук_шаблон_Boyko.ipynb) - jupyter-ноутбук, содержащий основной код проекта.
 
 ## Зависимости
 * Python (3.9):
