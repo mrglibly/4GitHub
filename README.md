@@ -10,3 +10,5 @@
 * [Проект 2. Проект для HeadHunter. Часть 2](https://github.com/mrglibly/4GitHub/tree/main/Project3)
 * [Проект 3. Модель по предсказанию рейтинга гостиниц](https://github.com/mrglibly/4GitHub/tree/main/Project4)
 * [Проект 4. Подбор гиперпараметров для банка ](https://github.com/mrglibly/4GitHub/tree/main/Project5)
+* [Проект 5. Классификация ](https://github.com/mrglibly/4GitHub/tree/main/Project_4_ML_V2)
+* [Проект 6. Предсказание длительности поездки в такси Нью-Йорка ](https://github.com/mrglibly/4GitHub/tree/main/Project5_SB)
