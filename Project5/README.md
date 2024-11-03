@@ -1,5 +1,5 @@
 <a id="anchor"></a>
-# [Проект 7. Подбор гиперпараметров модели для банка](https://github.com/mrglibly/4GitHub/blob/main/Project7/Project_4_ML_V2.ipynb)
+# [Проект 4. Подбор гиперпараметров модели для банка](https://github.com/mrglibly/4GitHub/blob/main/Project7/Project_4_ML_V2.ipynb)
 
 ## Оглавление:
 [1. Описание проекта](#p1)
