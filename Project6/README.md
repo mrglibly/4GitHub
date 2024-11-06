@@ -10,7 +10,7 @@
 Проект помогает прогнрзировать стоимость поездки.
 
 ## Как начать пользоваться проектом
-[Ссылка на проект здесь:](https://github.com/mrglibly/4GitHub/blob/main/Project6/Project-5_SB.ipynb)
+[Ссылка на проект здесь:](https://github.com/mrglibly/4GitHub/blob/main/Project6/Project-5._Ноутбук-шаблон_SB.ipynb)
 ## Помощь по проекту
 По всем вопросам можно обращаться на mrglibly@gmail.com.
 ## Благодарности
